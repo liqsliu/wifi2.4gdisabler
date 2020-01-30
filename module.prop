@@ -1,0 +1,6 @@
+id=wifi2.4gdisabler
+name=wifi2.4gdisabler
+version=1.0
+versionCode=1
+author=liqsliu
+description=Disable WiFi 2.4Ghz Band on your Qualcomm device by modifying WCNSS_qcom_cfg.ini.
